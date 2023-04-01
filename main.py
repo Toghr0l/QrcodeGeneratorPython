@@ -30,7 +30,7 @@ while isEnteringText:
         isEnteringText = True
     elif text == "exit()":
         print(f"{Fore.GREEN}Have a good day!{Fore.RESET}")
-        print(f"{Fore.YELLOW}Github: https://github.com/toghr0l{Fore.RESET}")
+        print(f"{Fore.YELLOW}Github: https://github.com/toghr0l{Fore.RESET} ---- Give this repository a star if you like!")
         isEnteringText = False
     else:
         try:
